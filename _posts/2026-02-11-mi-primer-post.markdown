@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mi primer post"
-date:   2025-02-11 20:00:00 +0100
+date:   2026-02-11 20:00:00 +0100
 categories: practica jekyll
 ---
 
